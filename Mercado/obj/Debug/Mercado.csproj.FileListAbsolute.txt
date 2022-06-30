@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\Trabalho de Ling de Programação\Mercado\Mercado\bin\Debug\Mercado.exe.config
+C:\Users\Usuario\Desktop\Trabalho de Ling de Programação\Mercado\Mercado\bin\Debug\Mercado.exe
+C:\Users\Usuario\Desktop\Trabalho de Ling de Programação\Mercado\Mercado\bin\Debug\Mercado.pdb
+C:\Users\Usuario\Desktop\Trabalho de Ling de Programação\Mercado\Mercado\obj\Debug\Mercado.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Trabalho de Ling de Programação\Mercado\Mercado\obj\Debug\Mercado.Form1.resources
+C:\Users\Usuario\Desktop\Trabalho de Ling de Programação\Mercado\Mercado\obj\Debug\Mercado.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Trabalho de Ling de Programação\Mercado\Mercado\obj\Debug\Mercado.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Trabalho de Ling de Programação\Mercado\Mercado\obj\Debug\Mercado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Trabalho de Ling de Programação\Mercado\Mercado\obj\Debug\Mercado.exe
+C:\Users\Usuario\Desktop\Trabalho de Ling de Programação\Mercado\Mercado\obj\Debug\Mercado.pdb
